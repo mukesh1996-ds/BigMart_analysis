@@ -1,0 +1,10 @@
+pandas
+numpy
+sklearn
+seaborn
+matplotlib
+statsmodels
+notebook
+dtale
+pandas_profiling
+klib
